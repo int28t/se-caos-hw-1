@@ -29,3 +29,4 @@
 
 # Ручной запуск симуляции
 ./build/crossroad data/demo.conf results/demo.log
+```
